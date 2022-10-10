@@ -24,3 +24,7 @@ In the reception module, the receptionist (/one handling the system) can:
 6. Update Cleaning Status of room (after housekeeping) 
 
 
+### THE OUTPUT IMAGES (Screenshots) FOR THIS PROJECT 
+### CAN BE FOUND IN "OutputRMS" FOLDER
+
+
